@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    height: 0;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+
+.un{
+    background-color: green;
+
+}
+
+.deux{
+    background-color: blue;
+}
+
+.trois{
+    background-color: purple;
+
+}
+
+.quatre{
+    background-color: orange;
+}
+
+.cinq{
+    background-color: red;
+}
+
+.six{
+    background-color: green;
+}
+
+.sept{
+    background-color: blue;
+}
+
+.huit{
+    background-color: purple;
+}
